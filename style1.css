@@ -1,0 +1,67 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+   
+}
+.card {
+    border-radius: 20px;
+    overflow: hidden;
+    max-width: 350px;
+
+}
+
+.card .head {
+    background: linear-gradient(#ffb76b, purple);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.card .head img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.card .bio {
+    padding: 20px;
+    background-color: #333;
+    color: #f1f1f1;
+    
+}
+
+.card .bio .details p{
+    display: inline-block;
+    width: 140px;
+    
+} 
+.card .bio  .email p{
+    display: inline-block;
+    width: 140px;
+    
+    
+}
+
+
+.card .social{
+    display:flex;
+    justify-content: center;
+}
+
+.card .social a {
+
+    color: plum;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.card .social a:hover {
+    color: #007bff;
+}
+
