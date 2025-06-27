@@ -29,4 +29,9 @@ A sleek and responsive user profile card built using **HTML** and **CSS**. This 
 
 
 ## 📁 Folder Structure
+📦 profile-card/
+┣ 📄 index.html
+┣ 📄 style1.css
+┣ 📄 background.jpg
+
 
