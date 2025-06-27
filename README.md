@@ -6,7 +6,7 @@ A sleek and responsive user profile card built using **HTML** and **CSS**. This 
 
 ## 📸 Preview
 
-![Profile Card Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/4a62df25-3be3-4d14-8ec9-daf34762d92a)
 
 ---
 
